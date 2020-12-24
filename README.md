@@ -1,2 +1,2 @@
 # mysampleapp
-Sample app for working with remote repository form the terminal
+Sample app for working with remote repository from the terminal
